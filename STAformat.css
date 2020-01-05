@@ -1,0 +1,13 @@
+body{
+  background: beige;
+}
+
+th, td
+{
+  border: 1px solid black;
+  background-color: white;
+}
+
+text{
+  color: black;
+}
